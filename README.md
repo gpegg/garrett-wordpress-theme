@@ -1,9 +1,13 @@
 === Garrett ===
 
 Contributors: Garrett Pegg
+
 Version: 1.0
+
 License: GNU General Public License v2 or later
+
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
 Tags: blog
 
 == Description ==
@@ -17,10 +21,6 @@ My first WordPress theme, built from scratch and primarily based on BootStrap 4.
 3. Upload Files.
 4. Click on the 'Activate' button to use your new theme right away.
 5. Navigate to Appearance > Customize in your admin panel and customize to taste.
-
-== Copyright ==
-
-Garrett WordPress Theme, Copyright 2018 WordPress.org
 
 = 1.0 =
 * Released: July 24, 2018
